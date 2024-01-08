@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    
+}
+img{
+    height: 300px;
+    weight: 200px;
+    border: 5px solid white ;
+    margin-top: 10%;
+    
+}
+h1{
+    font-family: 'Caveat', cursive;
+    color: white;
+}
+h3{
+    color: white;
+    font-family: 'Caveat', cursive;
+
+}
+div{
+    text-align: center;
+}
